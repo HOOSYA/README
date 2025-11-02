@@ -38,7 +38,7 @@
 ### 🌐 Со мной можно связаться  
 
 📫 **Telegram:** [@hoosya](https://t.me/hoosya)  
-🌍 **Сайт / портфолио: https://hoosya-dev.ru  
+🌍 **Сайт / портфолио: [hoosya-dev.ru](https://hoosya-dev.ru)
 
 ---
 
